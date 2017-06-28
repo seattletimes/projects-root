@@ -1,0 +1,140 @@
+@import "seattletimes";
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  .display-flex();
+  min-height: 100vh;
+
+  @media @mobile{
+    display:block;
+  }
+  .sidebar {
+    background: @df-dark-gray;
+    color: @df-off-white;
+    flex: 0 0 25%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    padding-top: 100px;
+
+    @media @mobile {
+      padding-top: 20px;
+    }
+  }
+  .sidebar h1 {
+    font-size: 50px;
+    margin: 0;
+    padding: 15px 0;
+    text-align: left;
+    color: @df-light-gray;
+    font-family: @df-serif;
+    border-bottom:1px solid #CCC;
+    border-top:1px solid #CCC;
+
+    @media @mobile {
+      font-size: 25px;
+    }
+  }
+
+  a {
+    transition: color .2s linear;
+    color: @df-middle-gray;
+
+    &:hover {
+      color: @df-off-white;
+    }
+  }
+
+  .icon {
+    font-size: 50px;
+    margin: 6px;
+    padding-top: 20px;
+
+    @media @mobile {
+      font-size: 25px;
+    }
+  }
+  .dev p {
+    text-align: center;
+    padding-top: 5px;
+  }
+}
+.articles {
+  padding: 75px;
+  padding-top: 30px;
+  color: @df-middle-gray;
+
+  @media @mobile {
+    min-height: 50vh;
+  }
+
+  .article-list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+    li {
+      margin-bottom: 24px;
+    }
+  }
+
+  h3 {
+    margin: 4px 0;
+  }
+
+  .meta {
+    font-size: 13px;
+    text-transform: uppercase;
+  }
+
+  a:link, a:visited {
+    color: @df-dark-gray;
+    font-family: @df-serif;
+  }
+  a:hover {
+    color: @df-off-white;
+  }
+  @media @tablet {
+    font-size: 20px;
+    padding: 20px;
+  }
+}
+
+.outgoing {
+  &.mobile-only {
+    display: none;
+    background: @df-dark-gray;
+    color: @df-light-gray;
+    padding: 16px;
+    text-align: center;
+
+    .icon {
+      font-size: 34px;
+    }
+
+    a {
+      color: inherit;
+    }
+  }
+
+  @media @mobile {
+    &.desktop-only {
+      display: none;
+    }
+
+    &.mobile-only {
+      display: block;
+    }
+  }
+
+}
+
+.spinner {
+  padding: 40px 0;
+  font-family: @df-sans;
+  font-style: italic;
+  color: @df-dark-gray;
+  text-align: center;
+}

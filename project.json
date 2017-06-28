@@ -1,0 +1,20 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "/"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": ""
+    }
+  },
+  "title": "Seattle Times Interactive Team",
+  "description": "Recent projects from The Seattle Times",
+  "url": "http://projects.seattletimes.com/",
+  "image": "assets/social.jpg",
+  "sheets": [],
+  "standout": false,
+  "embedded": true,
+  "production": true
+}

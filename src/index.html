@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <%= t.include("partials/_head.html", grunt.data.json) %>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <main class="container">
+      <div class="sidebar">
+          <nav class="bar"></nav>
+          <a href="http://seattletimes.com">
+            <img src="assets/st-logo.png" class="logo">
+          </a><br>
+          <h1> Seattle Times Interactives Projects</h1>
+          <div class="outgoing desktop-only">
+            <a class="icon" href="https://twitter.com/stnewsapps">
+              <i class="fa fa-twitter"></i></a>
+            <a class="icon" href="https://github.com/seattletimes">
+              <i class="fa fa-github"></i></a>
+            <p> For more discussion on our team and work, visit our <a href="http://dev.seattletimes.com">Dev Blog.</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="articles">
+        <div class="spinner">
+          <i class="fa fa-circle-o-notch fa-spin fa-fw"></i>
+          Loading...
+        </div>
+      </div>
+      <div class="outgoing mobile-only">
+        <a class="icon" href="https://twitter.com/stnewsapps">
+          <i class="fa fa-twitter"></i></a>
+        <a class="icon" href="https://github.com/seattletimes">
+          <i class="fa fa-github"></i></a>
+        <p> For more discussion on our team and work, visit our <a href="http://dev.seattletimes.com">Dev Blog.</a></p>
+      </div>
+    </main>
+    <script src="app.js" async></script>
+  </body>
+</html>

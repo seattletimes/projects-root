@@ -1,0 +1,14 @@
+<section class="recent">
+  <ul class="article-list">
+<% data.rows.forEach(function r(eachRow){ %>
+  <li>
+    <div class="meta">
+      <%= eachRow.Section %> |
+      <%= eachRow.Published %> |
+      <%= eachRow.Developer %>
+    </div>
+    <a href="<%= eachRow.URL %>"><h3><%= eachRow.Title %></h3></a>
+  </li>
+<% }); %>
+  </ul>
+</section>
