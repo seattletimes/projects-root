@@ -9,9 +9,8 @@ var articleContainer = $.one(".articles");
 var ready = function(sheet, table){
   var shown = sheet.filter(d => d.Share.trim());
 
-  shown = shown.slice(-10);
+  shown = shown.reverse().slice(0, 20);
   var html = template({rows:shown});
-  console.log(html);
   articleContainer.innerHTML = html;
 }
 
