@@ -12,7 +12,7 @@
           <a href="http://seattletimes.com">
             <img src="assets/st-logo.png" class="logo">
           </a><br>
-          <h1> Seattle Times Interactives Projects</h1>
+          <h1>Seattle Times Interactives Projects</h1>
           <div class="outgoing desktop-only">
             <a class="icon" href="https://twitter.com/stnewsapps">
               <i class="fa fa-twitter"></i></a>
@@ -22,11 +22,24 @@
           </div>
         </div>
       </div>
+
+      <% data = json.projects %>
+
       <div class="articles">
-        <div class="spinner">
-          <i class="fa fa-circle-o-notch fa-spin fa-fw"></i>
-          Loading...
-        </div>
+        <section class="recent">
+          <ul class="article-list">
+            <% data.forEach(function(row){ %>
+              <li>
+                <div class="meta">
+                  <%= row.Section %> |
+                  <%= row.Published %> |
+                  <%= row.Developer %>
+                </div>
+                <a href="<%= row.URL %>"><h3><%= row.Title %></h3></a>
+              </li>
+            <% }); %>
+          </ul>
+        </section>
       </div>
       <div class="outgoing mobile-only">
         <a class="icon" href="https://twitter.com/stnewsapps">

@@ -2,7 +2,7 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": "/"
+      "path": "better-yugoslavia"
     },
     "live": {
       "bucket": "projects.seattletimes.com",
@@ -13,7 +13,7 @@
   "description": "Recent projects from The Seattle Times",
   "url": "http://projects.seattletimes.com/",
   "image": "assets/social.jpg",
-  "sheets": [],
+  "sheets": ["1TxCIhCYx1XGiPAZZfysHDCUeQetez3hJq0M5dlh5oas"],
   "standout": false,
   "embedded": true,
   "production": true

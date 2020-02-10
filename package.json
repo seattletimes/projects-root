@@ -20,16 +20,16 @@
     "dot": "^1.1.2",
     "exorcist": "^0.4.0",
     "google-spreadsheets": "^0.5.1",
-    "grunt": "^1.0.0",
+    "grunt": "^1.0.4",
     "grunt-contrib-connect": "^1.0.0",
-    "grunt-contrib-watch": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0",
     "less": "^2.6.1",
-    "mime": "^1.2.11",
+    "mime": "^1.6.0",
     "resolve": "^1.1.7",
     "shelljs": "^0.6.0",
     "tabletop": "github:thomaswilburn/tabletop",
     "through2": "^2.0.0",
-    "typogr": "^0.6.4"
+    "typogr": "^0.6.8"
   },
   "browser": {
     "share": "./src/js/lib/share.min.js",
