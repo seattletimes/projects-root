@@ -1,17 +1,117 @@
 [
   {
-    "Title": "Inspection reports for private psychiatric hospitals in Washington state",
-    "Published": "12/28/2019",
+    "Title": "Measuring greatness | A look back at Sue Bird's 17-year career with the Storm",
+    "Published": "10/2/2020",
+    "Section": "Sports",
+    "Standalone": "x",
+    "URL": "https://projects.seattletimes.com/2020/sports/sue-bird-legacy-recap/",
+    "Developer": "Lauren Flannery"
+  },
+  {
+    "Title": "See how Seattle-area commutes have changed over the years — including the impact of COVID-19",
+    "Published": "9/25/2020",
+    "Section": "Traffic Lab",
+    "Standalone": "x",
+    "URL": "https://projects.seattletimes.com/2020/traffic-lab-data-page/",
+    "Developer": "Lauren Flannery"
+  },
+  {
+    "Title": "Washington students surveyed their peers. Here’s what their answers tell us about online learning, socializing and mental health",
+    "Published": "8/28/2020",
+    "Section": "Education",
+    "URL": "https://www.seattletimes.com/education-lab/washington-students-surveyed-their-peers-heres-what-their-answers-tell-us-about-online-learning-socializing-and-mental-health/",
+    "Developer": "Lauren Flannery"
+  },
+  {
+    "Title": "6 months since we had the nation’s first diagnosis, here’s how Washington’s COVID-19 fight is going",
+    "Published": "7/26/2020",
+    "Section": "Local",
+    "Standalone": "x",
+    "URL": "https://projects.seattletimes.com/2020/coronavirus-covid-19-washington-state-virus-pandemic-fight-six-months-july-charts/",
+    "Developer": "Emily M. Eng"
+  },
+  {
+    "Title": "The best Seattle sports moment bracket",
+    "Published": "6/12/2020",
+    "Section": "Sports",
+    "Standalone": "x",
+    "URL": "https://projects.seattletimes.com/2020/sports/seattle-sports-moments-bracket/",
+    "Developer": "Lauren Flannery"
+  },
+  {
+    "Title": "Lives Remembered: Meet some of the people we've lost to the coronavirus pandemic",
+    "Published": "4/25/2020",
+    "Section": "Local",
+    "Standalone": "x",
+    "URL": "https://projects.seattletimes.com/2020/coronavirus-covid-19-obituaries-lives-remembered/",
+    "Developer": "Frank Mina"
+  },
+  {
+    "Title": "The state of our state's coronavirus fight",
+    "Published": "4/12/2020",
+    "Section": "Local",
+    "Standalone": "x",
+    "URL": "https://projects.seattletimes.com/2020/charting-coronavirus-outbreak-washington-state/",
+    "Developer": "Emily M. Eng"
+  },
+  {
+    "Title": "‘I can’t let it prevent me from really living’: Nine local teens on how they’re coping with the coronavirus outbreak",
+    "Published": "4/5/2020",
+    "Section": "Education",
+    "URL": "https://www.seattletimes.com/education-lab/in-their-own-words-washington-teens-share-how-the-coronavirus-pandemic-has-changed-their-lives/",
+    "Developer": "Lauren Flannery"
+  },
+  {
+    "Title": "Coronavirus spread at Life Care Center of Kirkland for weeks, while response stalled",
+    "Published": "3/18/2020",
     "Section": "Investigations",
-    "URL": "https://projects.seattletimes.com/2019/inspection-reports-private-psychiatric-hospitals-washington-state/",
+    "URL": "https://www.seattletimes.com/seattle-news/times-watchdog/coronavirus-spread-in-a-kirkland-nursing-home-for-weeks-while-response-stalled/",
+    "Developer": "Emily M. Eng"
+  },
+  {
+    "Title": "How primary night unfolded in Washington state — and what to expect next",
+    "Published": "3/10/2020",
+    "Section": "Local",
+    "URL": "https://www.seattletimes.com/seattle-news/politics/what-you-need-to-know-about-washington-states-march-10-presidential-primary/",
     "Developer": "Hilary Fung"
+  },
+  {
+    "Title": "Disappearing Daughters | Mothers search for justice and embrace fragile memories",
+    "Published": "3/8/2020",
+    "Section": "Pacific NW Magazine",
+    "Standalone": "x",
+    "URL": "https://projects.seattletimes.com/2020/femicide-juarez-mexico-border/",
+    "Developer": "Lauren Flannery, Emily M. Eng"
+  },
+  {
+    "Title": "Geelong, Australia student program for preventing homelessness",
+    "Published": "2/9/2020",
+    "Section": "Education",
+    "Standalone": "x",
+    "URL": "https://projects.seattletimes.com/2020/geelong-project-australia-student-youth-homeless-prevention-comes-to-king-county-washington/",
+    "Developer": "Hilary Fung"
+  },
+  {
+    "Title": "Who’s in charge at Amazon? Moves on secretive S Team signal tech giant’s priorities",
+    "Published": "2/9/2020",
+    "Section": "Business",
+    "URL": "https://www.seattletimes.com/business/amazon/whos-in-charge-at-amazon-moves-on-secretive-s-team-signal-tech-giants-priorities/",
+    "Developer": "Lauren Flannery"
+  },
+  {
+    "Title": "Oscars 2020 poll: Our critic shares her predictions. What are yours?",
+    "Published": "2/3/2020",
+    "Section": "Features",
+    "URL": "https://www.seattletimes.com/entertainment/movies/oscars-2020-poll-our-critic-shares-her-predictions-what-are-yours/",
+    "Developer": "Lauren Flannery"
   },
   {
     "Title": "From here and from there: Deportees build new lives, and embrace ‘two cultures, two homes’",
     "Published": "12/22/2019",
     "Section": "Video",
+    "Standalone": "x",
     "URL": "https://projects.seattletimes.com/2019/beyond-the-border-life-in-mexico-city-after-deportation/",
-    "Developer": "Hilary Fung"
+    "Developer": "Hilary Fung, Emily M. Eng"
   },
   {
     "Title": "The best Seattle albums of 2019",
@@ -24,6 +124,7 @@
     "Title": "Two tragic flights, 12 problems",
     "Published": "10/27/2019",
     "Section": "Business",
+    "Standalone": "x",
     "URL": "https://projects.seattletimes.com/2019/boeing-737-max-12-problems/",
     "Developer": "Hilary Fung"
   },
@@ -31,6 +132,7 @@
     "Title": "Public crisis, private toll: How a company’s push to expand psychiatric care brought peril",
     "Published": "8/25/2019",
     "Section": "Investigations",
+    "Standalone": "x",
     "URL": "http://projects.seattletimes.com/2019/public-crisis-private-toll-part1/",
     "Developer": "Emily M. Eng"
   },
@@ -38,6 +140,7 @@
     "Title": "Public crisis, private toll: The hidden costs of the mental-health industry’s expansion",
     "Published": "8/23/2019",
     "Section": "Investigations",
+    "Standalone": "x",
     "URL": "https://projects.seattletimes.com/2019/public-crisis-private-toll-prologue/",
     "Developer": "Emily M. Eng"
   },
@@ -82,7 +185,7 @@
     "Section": "Features",
     "Standalone": "x",
     "URL": "https://projects.seattletimes.com/2018/fresh-hops-brewing/",
-    "Developer": "Thomas Wilburn, Frank Mina",
+    "Developer": "Emily M. Eng, Thomas Wilburn",
     "Share": "x"
   },
   {
