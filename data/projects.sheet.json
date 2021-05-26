@@ -1,5 +1,45 @@
 [
   {
+    "Title": "Sparkling curiosity | Your guide to intriguing exhibits in the Seattle area this spring",
+    "Published": "4/11/21",
+    "Section": "Features",
+    "Standalone": "x",
+    "URL": "https://projects.seattletimes.com/2021/seattle-museum-guide-visit-exhibit-spring-gallery-venue-art-history-science-culture/",
+    "Developer": "Stephanie Hays, Jennifer Luxton"
+  },
+  {
+    "Title": "A year of pandemic",
+    "Published": "3/14/2021",
+    "Section": "Local",
+    "Standalone": "x",
+    "URL": "https://projects.seattletimes.com/2021/first-year-of-pandemic-covid-19-seattle-washington/",
+    "Developer": "Lauren Flannery, Emily M. Eng, Frank Mina"
+  },
+  {
+    "Title": "A collective longing",
+    "Published": "3/14/2021",
+    "Section": "Local",
+    "Standalone": "x",
+    "URL": "https://projects.seattletimes.com/2021/collective-longing-after-covid-19-pandemic-seattle-washington/",
+    "Developer": "Lauren Flannery"
+  },
+  {
+    "Title": "Food, family and holidays | Seattleites share their cherished recipes",
+    "Published": "11/30/2020",
+    "Section": "Features",
+    "Standalone": "x",
+    "URL": "https://projects.seattletimes.com/life/food-drink/holiday-family-generational-recipes-cooking/",
+    "Developer": "Stephanie Hays"
+  },
+  {
+    "Title": "General election results 2020",
+    "Published": "11/3/2020",
+    "Section": "Local",
+    "Standalone": "x",
+    "URL": "https://projects.seattletimes.com/2020/election-results/#President",
+    "Developer": "Lauren Flannery, Emily M. Eng"
+  },
+  {
     "Title": "Measuring greatness | A look back at Sue Bird's 17-year career with the Storm",
     "Published": "10/2/2020",
     "Section": "Sports",
