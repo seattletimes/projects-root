@@ -9,9 +9,11 @@
       "path": ""
     }
   },
-  "title": "Seattle Times Interactive Team",
-  "description": "Recent projects from The Seattle Times",
-  "url": "http://projects.seattletimes.com/",
+  "title": "Seattle Times Interactive Graphics Team",
+  "description": "Here's a list of Seattle Times projects with visually lead storytelling presentations covering local news to data investigations from our visual journalists.",
+  "author": "Seattle Times Interactive Graphics Team",
+  "url": "https://projects.seattletimes.com/",
+  "post_id": 13946120,
   "image": "assets/social.jpg",
   "sheets": ["1TxCIhCYx1XGiPAZZfysHDCUeQetez3hJq0M5dlh5oas"],
   "standout": false,
