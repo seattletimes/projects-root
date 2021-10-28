@@ -1,9 +1,73 @@
 [
   {
+    "Title": "Seattle mayoral matchmaker | Which candidate shares your views? Take our quiz to find out.\n      ",
+    "Published": "10/17/21",
+    "Section": "Local",
+    "Standalone": "x",
+    "Technology": "",
+    "URL": "https://projects.seattletimes.com/2021/seattle-mayoral-election-candidate-matchmaker-quiz/",
+    "Developer": "Emily M. Eng, Gabriel Campanario"
+  },
+  {
+    "Title": "Returning to the classroom | The pandemic pushed some students out of Washington's schools. New data tells us who left.",
+    "Published": "10/16/21",
+    "Section": "Education",
+    "Standalone": "x",
+    "Technology": "",
+    "URL": "https://projects.seattletimes.com/2021/education-lab-data-page-back-to-school/",
+    "Developer": "Lauren Flannery"
+  },
+  {
+    "Title": "A Kraken fan’s visual guide to hockey and the NHL",
+    "Published": "10/11/21",
+    "Section": "Sports",
+    "Standalone": "x",
+    "Technology": "",
+    "URL": "https://projects.seattletimes.com/2021/seattle-kraken-ice-hockey-basics-101/",
+    "Developer": "Emily M. Eng, Mark Nowlin"
+  },
+  {
+    "Title": "Fall arts: Looking for an arts event to go to in the Seattle area in fall 2021? Take your pick here ",
+    "Published": "9/17/2021",
+    "Section": "Features",
+    "Standalone": "x",
+    "Technology": "",
+    "URL": "https://projects.seattletimes.com/2021/features/seattle-area-fall-arts-guide/",
+    "Developer": "Stephanie Hays, Gabriel Campanario"
+  },
+  {
+    "Title": "Use these interactive maps to track wildfires, air quality and drought conditions in Washington state, Oregon and British Columbia",
+    "Published": "7/12/2021",
+    "Section": "Local",
+    "Standalone": "",
+    "Technology": "",
+    "URL": "https://www.seattletimes.com/seattle-news/use-this-interactive-map-to-track-wildfires-in-washington-state-oregon/",
+    "Developer": "Lauren Flannery, Mark Nowlin"
+  },
+  {
+    "Title": "Growing up in a pandemic | Washington children reveal what they learned during a turbulent year",
+    "Published": "6/12/2021",
+    "Section": "Education",
+    "Standalone": "x",
+    "Technology": "",
+    "URL": "https://projects.seattletimes.com/2021/local/washington-children-reveal-learned-during-school-year-covid-coronavirus/",
+    "Developer": "Lauren Flannery"
+  },
+  {
+    "Title": "The summer of the roadtrip",
+    "Published": "6/5/2021",
+    "Section": "Features",
+    "Standalone": "x",
+    "Technology": "",
+    "URL": "https://projects.seattletimes.com/2021/places-destinations-to-summer-roadtrip-washington/",
+    "Developer": "Lauren Flannery"
+  },
+  {
     "Title": "Sparkling curiosity | Your guide to intriguing exhibits in the Seattle area this spring",
     "Published": "4/11/21",
     "Section": "Features",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2021/seattle-museum-guide-visit-exhibit-spring-gallery-venue-art-history-science-culture/",
     "Developer": "Stephanie Hays, Jennifer Luxton"
   },
@@ -12,6 +76,7 @@
     "Published": "3/14/2021",
     "Section": "Local",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2021/first-year-of-pandemic-covid-19-seattle-washington/",
     "Developer": "Lauren Flannery, Emily M. Eng, Frank Mina"
   },
@@ -20,6 +85,7 @@
     "Published": "3/14/2021",
     "Section": "Local",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2021/collective-longing-after-covid-19-pandemic-seattle-washington/",
     "Developer": "Lauren Flannery"
   },
@@ -28,6 +94,7 @@
     "Published": "11/30/2020",
     "Section": "Features",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/life/food-drink/holiday-family-generational-recipes-cooking/",
     "Developer": "Stephanie Hays"
   },
@@ -36,6 +103,7 @@
     "Published": "11/22/2020",
     "Section": "Investigations",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2020/undetermined-autumn-stone-death/",
     "Developer": "Emily M. Eng"
   },
@@ -44,6 +112,7 @@
     "Published": "11/3/2020",
     "Section": "Local",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2020/election-results/#President",
     "Developer": "Lauren Flannery, Emily M. Eng"
   },
@@ -52,6 +121,7 @@
     "Published": "10/2/2020",
     "Section": "Sports",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2020/sports/sue-bird-legacy-recap/",
     "Developer": "Lauren Flannery"
   },
@@ -60,6 +130,7 @@
     "Published": "9/25/2020",
     "Section": "Traffic Lab",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2020/traffic-lab-data-page/",
     "Developer": "Lauren Flannery"
   },
@@ -67,6 +138,8 @@
     "Title": "Washington students surveyed their peers. Here’s what their answers tell us about online learning, socializing and mental health",
     "Published": "8/28/2020",
     "Section": "Education",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/education-lab/washington-students-surveyed-their-peers-heres-what-their-answers-tell-us-about-online-learning-socializing-and-mental-health/",
     "Developer": "Lauren Flannery"
   },
@@ -75,6 +148,7 @@
     "Published": "7/26/2020",
     "Section": "Local",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2020/coronavirus-covid-19-washington-state-virus-pandemic-fight-six-months-july-charts/",
     "Developer": "Emily M. Eng"
   },
@@ -83,6 +157,7 @@
     "Published": "6/12/2020",
     "Section": "Sports",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2020/sports/seattle-sports-moments-bracket/",
     "Developer": "Lauren Flannery"
   },
@@ -91,6 +166,7 @@
     "Published": "4/25/2020",
     "Section": "Local",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2020/coronavirus-covid-19-obituaries-lives-remembered/",
     "Developer": "Frank Mina"
   },
@@ -99,6 +175,7 @@
     "Published": "4/12/2020",
     "Section": "Local",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2020/charting-coronavirus-outbreak-washington-state/",
     "Developer": "Emily M. Eng"
   },
@@ -106,6 +183,8 @@
     "Title": "‘I can’t let it prevent me from really living’: Nine local teens on how they’re coping with the coronavirus outbreak",
     "Published": "4/5/2020",
     "Section": "Education",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/education-lab/in-their-own-words-washington-teens-share-how-the-coronavirus-pandemic-has-changed-their-lives/",
     "Developer": "Lauren Flannery"
   },
@@ -113,6 +192,8 @@
     "Title": "Coronavirus spread at Life Care Center of Kirkland for weeks, while response stalled",
     "Published": "3/18/2020",
     "Section": "Investigations",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/seattle-news/times-watchdog/coronavirus-spread-in-a-kirkland-nursing-home-for-weeks-while-response-stalled/",
     "Developer": "Emily M. Eng"
   },
@@ -120,6 +201,8 @@
     "Title": "How primary night unfolded in Washington state — and what to expect next",
     "Published": "3/10/2020",
     "Section": "Local",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/seattle-news/politics/what-you-need-to-know-about-washington-states-march-10-presidential-primary/",
     "Developer": "Hilary Fung"
   },
@@ -128,6 +211,7 @@
     "Published": "3/8/2020",
     "Section": "Pacific NW Magazine",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2020/femicide-juarez-mexico-border/",
     "Developer": "Lauren Flannery, Emily M. Eng"
   },
@@ -136,6 +220,7 @@
     "Published": "2/9/2020",
     "Section": "Education",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2020/geelong-project-australia-student-youth-homeless-prevention-comes-to-king-county-washington/",
     "Developer": "Hilary Fung"
   },
@@ -143,6 +228,8 @@
     "Title": "Who’s in charge at Amazon? Moves on secretive S Team signal tech giant’s priorities",
     "Published": "2/9/2020",
     "Section": "Business",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/business/amazon/whos-in-charge-at-amazon-moves-on-secretive-s-team-signal-tech-giants-priorities/",
     "Developer": "Lauren Flannery"
   },
@@ -150,6 +237,8 @@
     "Title": "Oscars 2020 poll: Our critic shares her predictions. What are yours?",
     "Published": "2/3/2020",
     "Section": "Features",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/entertainment/movies/oscars-2020-poll-our-critic-shares-her-predictions-what-are-yours/",
     "Developer": "Lauren Flannery"
   },
@@ -158,6 +247,7 @@
     "Published": "12/22/2019",
     "Section": "Video",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2019/beyond-the-border-life-in-mexico-city-after-deportation/",
     "Developer": "Hilary Fung, Emily M. Eng"
   },
@@ -165,6 +255,8 @@
     "Title": "The best Seattle albums of 2019",
     "Published": "12/18/2019",
     "Section": "Features",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2019/best-seattle-albums/",
     "Developer": "Miranda Hardy"
   },
@@ -173,6 +265,7 @@
     "Published": "10/27/2019",
     "Section": "Business",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2019/boeing-737-max-12-problems/",
     "Developer": "Hilary Fung"
   },
@@ -181,6 +274,7 @@
     "Published": "8/25/2019",
     "Section": "Investigations",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2019/public-crisis-private-toll-part1/",
     "Developer": "Emily M. Eng"
   },
@@ -189,6 +283,7 @@
     "Published": "8/23/2019",
     "Section": "Investigations",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2019/public-crisis-private-toll-prologue/",
     "Developer": "Emily M. Eng"
   },
@@ -197,6 +292,7 @@
     "Published": "8/11/2019",
     "Section": "Video",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2019/mmiw/",
     "Developer": "Frank Mina"
   },
@@ -205,6 +301,7 @@
     "Published": "5/19/2019",
     "Section": "Local",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2019/hostile-waters-orcas-noise/",
     "Developer": "Frank Mina, Emily M. Eng",
     "Share": "x"
@@ -214,6 +311,7 @@
     "Published": "3/25/2019",
     "Section": "Features",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2019/her-story-our-story/",
     "Developer": "Thomas Wilburn, Frank Mina",
     "Share": "x"
@@ -223,6 +321,7 @@
     "Published": "12/14/2018",
     "Section": "Education",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2018/teacher-diversity-wa/",
     "Developer": "Emily M. Eng",
     "Share": "x"
@@ -232,6 +331,7 @@
     "Published": "9/14/2018",
     "Section": "Features",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2018/fresh-hops-brewing/",
     "Developer": "Emily M. Eng, Thomas Wilburn",
     "Share": "x"
@@ -241,6 +341,7 @@
     "Published": "7/1/2018",
     "Section": "Sports",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2018/paddling-for-gold",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -249,6 +350,8 @@
     "Title": "What’s the region’s second-fastest growing neighborhood? Hint: It’s not in Seattle.",
     "Published": "6/20/2018",
     "Section": "Local",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/seattle-news/data/whats-the-regions-second-fastest-growing-neighborhood-hint-its-not-in-seattle/",
     "Developer": "Alec Glassford",
     "Share": "x"
@@ -258,6 +361,7 @@
     "Published": "6/19/2018",
     "Section": "Local",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2018/artifacts-of-injustice/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -277,6 +381,7 @@
     "Published": "6/11/2018",
     "Section": "Local",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2018/south-park-teen-safety/",
     "Developer": "Alec Glassford, Thomas Wilburn, Emily M. Eng",
     "Share": "x"
@@ -285,6 +390,8 @@
     "Title": "They survived a school shooting as freshmen. Four years later, a diploma doesn’t erase the pain.",
     "Published": "6/10/2018",
     "Section": "Local",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/seattle-news/they-survived-a-school-shooting-as-freshmen-four-years-later-a-diploma-doesnt-erase-the-pain/",
     "Developer": "Emily M. Eng, Alec Glassford, Thomas Wilburn",
     "Share": "x"
@@ -293,6 +400,8 @@
     "Title": "Some Seattle neighborhoods are untouched by rapid population growth. Why?",
     "Published": "6/1/2018",
     "Section": "Local",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/seattle-news/data/some-seattle-neighborhoods-are-untouched-by-rapid-population-growth-why/",
     "Developer": "Alec Glassford",
     "Share": "x"
@@ -302,6 +411,7 @@
     "Published": "5/17/2018",
     "Section": "Business",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2018/how-to-buy-a-home/",
     "Developer": "Alec Glassford, Thomas Wilburn",
     "Share": "x"
@@ -311,6 +421,7 @@
     "Published": "5/12/2018",
     "Section": "Features",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2018/summer-guide/",
     "Developer": "Alec Glassford, Thomas Wilburn",
     "Share": "x"
@@ -319,6 +430,8 @@
     "Title": "Pension animations",
     "Published": "5/11/2018",
     "Section": "Investigations",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/seattle-news/seattles-retirement-fund-was-mismanaged-now-taxpayers-are-paying-the-price/",
     "Developer": "Thomas Wilburn, Jennifer Luxton"
   },
@@ -326,6 +439,7 @@
     "Title": "Q&A on MHA upzones",
     "Published": "5/9/2018",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "https://www.seattletimes.com/seattle-news/politics/neighborhood-upzones-for-affordable-housing-qa-on-proposal-with-seattle-mayors-adviser/",
     "Developer": "Thomas Wilburn",
@@ -335,6 +449,7 @@
     "Title": "May Day 2018",
     "Published": "5/1/2018",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "Leaflet, Node",
     "URL": "https://www.seattletimes.com/seattle-news/live-updates-may-day-2018-seattle-march-rally/",
     "Developer": "Thomas Wilburn",
@@ -345,6 +460,7 @@
     "Published": "4/26/2018",
     "Section": "Politics",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2018/know-your-rights/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -353,6 +469,8 @@
     "Title": "Learning to live in our congested city",
     "Published": "4/26/2018",
     "Section": "Pacific NW Magazine",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/pacific-nw-magazine/its-time-we-all-learned-how-to-be-considerably-more-considerate-in-our-newly-congested-city/",
     "Developer": "Thomas Wilburn, Gabi Campanario"
   },
@@ -360,6 +478,7 @@
     "Title": "Seattle still doesn't know what to do about vehicle camping",
     "Published": "4/10/2018",
     "Section": "Project Homeless",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "https://www.seattletimes.com/seattle-news/homeless/seattle-still-has-no-strategy-for-thousands-of-people-living-in-vehicles/",
     "Developer": "Thomas Wilburn",
@@ -370,6 +489,7 @@
     "Published": "4/5/2018",
     "Section": "Pacific NW Magazine",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2018/us-too/",
     "Developer": "Thomas Wilburn, Emily M. Eng",
     "Share": "x"
@@ -379,6 +499,7 @@
     "Published": "3/28/2018",
     "Section": "Sports",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2018/mariners-missteps/",
     "Developer": "Thomas Wilburn, Jennifer Luxton",
     "Share": "x"
@@ -387,6 +508,7 @@
     "Title": "Where did foreclosures hit Seattle the hardest?",
     "Published": "1/22/2018",
     "Section": "Pacific NW Magazine",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "https://www.seattletimes.com/pacific-nw-magazine/all-seattles-new-wealth-couldnt-save-many-homeowners-from-foreclosure/",
     "Developer": "Thomas Wilburn",
@@ -396,6 +518,8 @@
     "Title": "We asked readers how they learned about consent",
     "Published": "1/18/2018",
     "Section": "Local",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/seattle-news/education/readers-responses-sex-consent-seattle-survey-metoo/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -414,6 +538,8 @@
     "Title": "Racial equity in Seattle schools has a long history",
     "Published": "1/12/18",
     "Section": "Education",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/education-lab/racial-equity-in-seattle-schools-has-a-long-frustrating-history-and-its-getting-worse/",
     "Developer": "Thomas Wilburn"
   },
@@ -432,6 +558,7 @@
     "Published": "1/1/2018",
     "Section": "Video",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2017/videos-of-the-year/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -459,6 +586,7 @@
     "Title": "911 calls capture chaos after Amtrak derailment",
     "Published": "12/22/2017",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "HTML5 audio, VTT parser",
     "URL": "https://www.seattletimes.com/seattle-news/bodies-laying-everywhere-911-calls-capture-chaos-tragedy-after-amtrak-train-derailment/",
     "Developer": "Thomas Wilburn",
@@ -469,6 +597,7 @@
     "Published": "12/11/2017",
     "Section": "Entertainment",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2017/great-movies/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -477,6 +606,8 @@
     "Title": "A brief history of the Admiral theater",
     "Published": "11/22/2017",
     "Section": "Entertainment",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/entertainment/movies/seattles-historic-moviehouses/",
     "Developer": "Thomas Wilburn"
   },
@@ -485,6 +616,7 @@
     "Published": "11/7/2017",
     "Section": "Politics",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2017/election-results/#KeyRaces",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -493,6 +625,7 @@
     "Title": "Can Seattle zone away the racial divide?",
     "Published": "11/2/2017",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "https://www.seattletimes.com/seattle-news/can-seattle-rezone-away-the-racial-divide-in-housing/",
     "Developer": "Thomas Wilburn",
@@ -502,6 +635,8 @@
     "Title": "Mayoral campaign contributions tracker",
     "Published": "10/27/2017",
     "Section": "Politics",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2017/politics/mayoral-campaign-contributions/",
     "Developer": "Vanessa Martínez, Thomas Wilburn",
     "Share": "x"
@@ -511,6 +646,7 @@
     "Published": "10/19/2017",
     "Section": "FYI Guy",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2017/fyi-quiz-newcomers/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -520,6 +656,7 @@
     "Published": "10/19/2017",
     "Section": "Politics",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2017/seattle-mayoral-quiz/",
     "Developer": "Vanessa Martínez, Thomas Wilburn",
     "Share": "x"
@@ -528,6 +665,8 @@
     "Title": "College graduation rates improving",
     "Published": "10/15/2017",
     "Section": "Education",
+    "Standalone": "",
+    "Technology": "",
     "URL": "https://www.seattletimes.com/education-lab/spend-a-fifth-year-in-college-fewer-washington-students-stick-around-that-long/",
     "Developer": "Thomas Wilburn"
   },
@@ -535,6 +674,7 @@
     "Title": "Betsy DeVos protest map",
     "Published": "10/13/2017",
     "Section": "Education",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "https://www.seattletimes.com/seattle-news/education/education-secretary-betsy-devos-will-visit-bellevue-today-heres-latest-on-speakers-protests-traffic/",
     "Developer": "Thomas Wilburn"
@@ -543,6 +683,7 @@
     "Title": "Poaching suspects caught by their phones",
     "Published": "10/12/2017",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "https://www.seattletimes.com/seattle-news/crime/phones-of-poaching-suspects-set-investigators-on-trail-to-carcasses-191-criminal-counts-filed/",
     "Developer": "Thomas Wilburn, Vanessa Martínez",
@@ -552,6 +693,7 @@
     "Title": "The Amazon Sweepstakes",
     "Published": "9/13/2017",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "https://www.seattletimes.com/business/amazon/100-plus-contenders-imagine-hosting-amazons-hq2/",
     "Developer": "Thomas Wilburn",
@@ -561,6 +703,7 @@
     "Title": "How long will you live?",
     "Published": "9/5/2017",
     "Section": "Science",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/seattle-news/health/how-long-will-you-live-it-might-depend-on-your-neighborhood/",
     "Developer": "Ellis Simani, Emily M. Eng",
@@ -570,6 +713,8 @@
     "Title": "The Legion of Boom is reloaded",
     "Published": "9/5/2017",
     "Section": "Sports",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/sports/seahawks/after-all-the-doom-of-2016-the-seahawks-legion-of-boom-just-reloads-in-preparation-for-2017/",
     "Developer": "Vanessa Martínez, Emily M. Eng",
     "Share": "x"
@@ -579,6 +724,7 @@
     "Published": "8/31/2017",
     "Section": "Sports",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2017/huskies-pick-em/",
     "Developer": "Ellis Simani"
   },
@@ -586,6 +732,8 @@
     "Title": "Most Seattle filers make under 50K",
     "Published": "8/30/2017",
     "Section": "FYI Guy",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/seattle-news/politics/a-city-of-riches-most-seattle-filers-make-less-than-50k-irs-data-show/",
     "Developer": "Thomas Wilburn"
   },
@@ -593,6 +741,8 @@
     "Title": "Seattle police are writing fewer tickets",
     "Published": "8/25/2017",
     "Section": "FYI Guy",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/seattle-news/data/have-you-noticed-seattle-police-are-writing-fewer-tickets/",
     "Developer": "Ellis Simani",
     "Share": "x"
@@ -601,6 +751,8 @@
     "Title": "Thanks to Amazon, Seattle is now the biggest company town",
     "Published": "8/23/2017",
     "Section": "Local",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/business/amazon/thanks-to-amazon-seattle-is-now-americas-biggest-company-town/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -609,6 +761,7 @@
     "Title": "The most dangerous intersections in Seattle",
     "Published": "8/17/2017",
     "Section": "Transportation",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/seattle-news/transportation/the-most-dangerous-intersections-in-seattle-for-bicyclists-and-pedestrians/",
     "Developer": "Ellis Simani",
@@ -628,6 +781,8 @@
     "Title": "Here's what climate models say about the future of the PNW",
     "Published": "8/7/2017",
     "Section": "Local",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/seattle-news/environment/think-its-hot-now-heres-what-climate-models-say-about-the-future-of-the-pacific-northwest/",
     "Developer": "Ellis Simani",
     "Share": "x"
@@ -637,6 +792,7 @@
     "Published": "8/2/2017",
     "Section": "Features",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2017/washington-hiking-trails-guide/",
     "Developer": "Vanessa Martínez",
     "Share": "x"
@@ -645,6 +801,7 @@
     "Title": "Seattle's pesticide phaseout in parks",
     "Published": "7/28/2017",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/seattle-news/seattles-pesticide-phaseout-lags-potentially-harmful-products-used-in-parks/",
     "Developer": "Ellis Simani",
@@ -655,6 +812,7 @@
     "Published": "7/26/2017",
     "Section": "Local",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2017/eastside-prostitution-bust/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -663,6 +821,7 @@
     "Title": "Dining on roadkill",
     "Published": "7/25/2017",
     "Section": "Outdoors",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/life/outdoors/roadkill-plan-people-take-1600-deer-elk-off-washington-roads-in-first-year/",
     "Developer": "Thomas Wilburn",
@@ -672,6 +831,7 @@
     "Title": "2017 CEO pay",
     "Published": "7/15/2017",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "angular",
     "URL": "http://www.seattletimes.com/business/schultz-ending-remarkable-run-among-local-ceo-pay-elite/",
     "Developer": "Thomas Wilburn, Vanessa Martínez"
@@ -681,6 +841,7 @@
     "Published": "7/10/2017",
     "Section": "Sports",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2017/mariners-rushmore",
     "Developer": "Thomas Wilburn"
   },
@@ -688,6 +849,7 @@
     "Title": "Ballard locks retrospective",
     "Published": "6/30/2017",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "Image slider",
     "URL": "http://www.seattletimes.com/seattle-news/environment/seattle-native-culture-water-hiram-chittenden-ballard-locks-ship-canal-100-years/",
     "Developer": "Vanessa Martinez"
@@ -696,6 +858,8 @@
     "Title": "Swedish scheduling overlap",
     "Published": "6/28/2017",
     "Section": "Investigations",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/seattle-news/times-watchdog/swedish-neuroscience-institute-double-booked-overlapping-surgeries/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -724,6 +888,8 @@
     "Title": "See 360-degree views of the new MarketFront at Pike Place Market",
     "Published": "6/26/2017",
     "Section": "Local",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/seattle-news/pike-place-market-74-million-addition-marketfront-360-video/",
     "Developer": "Vanessa Martínez, Thomas Wilburn"
   },
@@ -731,9 +897,11 @@
     "Title": "Quiz: How well do you know New Kids on the Block, Boyz II Men and Paula Abdul?",
     "Published": "6/2/2017",
     "Section": "Features",
+    "Standalone": "",
     "Technology": "Quiz template",
     "URL": "http://projects.seattletimes.com/2017/quizzes/concert-trivia/",
     "Developer": "Vanessa Martínez",
+    "Share": "",
     "undefined": "https://docs.google.com/spreadsheets/d/1pkSF_lG0ZYgUNfCpTk9lDnNQQI4qWX1sGvnQ0C0QCks/edit"
   },
   {
@@ -741,6 +909,7 @@
     "Published": "5/28/2017",
     "Section": "Investigations, Environment",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2017/west-point/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -750,6 +919,7 @@
     "Published": "5/19/2017",
     "Section": "Pacific NW Magazine",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2017/portraits-of-homelessness/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -759,6 +929,7 @@
     "Published": "5/12/2017",
     "Section": "Features",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2017/summer-guide/",
     "Developer": "Thomas Wilburn, Vanessa Martinez",
     "Share": "x"
@@ -768,6 +939,7 @@
     "Published": "4/29/2017",
     "Section": "Politics",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2017/trump-100-days/",
     "Developer": "Vanessa Martinez, Thomas Wilburn",
     "Share": "x"
@@ -777,6 +949,7 @@
     "Published": "4/10/2017",
     "Section": "Entertainment",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2017/pearl-jam-bands/",
     "Developer": "Thomas Wilburn"
   },
@@ -794,6 +967,7 @@
     "Published": "3/30/2017",
     "Section": "Sports",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2017/mariners-preview/",
     "Developer": "Thomas Wilburn, Vanessa Martinez",
     "Share": "x"
@@ -803,6 +977,7 @@
     "Published": "3/1/2017",
     "Section": "Sports",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2017/kelsey-plum-record/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -811,6 +986,7 @@
     "Title": "Student absences 2017",
     "Published": "3/1/2017",
     "Section": "Education",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/education-lab/absent-students-schools-attendance-nudge-letters/",
     "Developer": "Thomas Wilburn"
@@ -819,6 +995,8 @@
     "Title": "Oscars ballot",
     "Published": "02/24/2017",
     "Section": "Entertainment",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/entertainment/tv/oscars-2017-fill-out-your-ballot/",
     "Developer": "Thomas Wilburn"
   },
@@ -826,6 +1004,8 @@
     "Title": "Oscars madlibs",
     "Published": "02/23/2017",
     "Section": "Entertainment",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/entertainment/oscars-2017-write-your-own-speech-by-filling-in-the-blank/",
     "Developer": "Thomas Wilburn"
   },
@@ -833,6 +1013,8 @@
     "Title": "Oscars bingo",
     "Published": "02/22/2017",
     "Section": "Entertainment",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/entertainment/tv/2017-oscars-bingo-download-cards-or-play-our-interactive-version/",
     "Developer": "Thomas Wilburn"
   },
@@ -840,6 +1022,7 @@
     "Title": "FYI Guy - neighborhood income sliders",
     "Published": "2/15/2017",
     "Section": "FYI Guy",
+    "Standalone": "",
     "Technology": "image-slider",
     "URL": "http://www.seattletimes.com/seattle-news/data/seattle-neighborhoods-wage-growth-hot-spots-getting-richer/",
     "Developer": "Thomas Wilburn"
@@ -849,6 +1032,7 @@
     "Published": "2/10/2017",
     "Section": "Investigation",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2017/quantity-of-care/",
     "Developer": "Thomas Wilburn, Emily M. Eng",
     "Share": "x"
@@ -857,6 +1041,7 @@
     "Title": "Teacher tripay by district",
     "Published": "02/06/2017",
     "Section": "Education",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/education-lab/tough-mccleary-puzzle-complex-history-teacher-pay/",
     "Developer": "Thomas Wilburn"
@@ -865,6 +1050,8 @@
     "Title": "Where refugees come from",
     "Published": "02/02/2017",
     "Section": "Politics",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2017/politics/refugee-graph/",
     "Developer": "Thomas Wilburn"
   },
@@ -872,6 +1059,7 @@
     "Title": "Seahawks injury database",
     "Published": "1/14/2017",
     "Section": "Sports",
+    "Standalone": "",
     "Technology": "SVG",
     "URL": "http://www.seattletimes.com/sports/seahawks/earl-thomas-tyler-lockett-thomas-rawls-tracking-seahawks-injuries-in-2016/",
     "Developer": "Vanessa Martinez, Emily M. Eng",
@@ -881,6 +1069,7 @@
     "Title": "Tax dollars for marijuana eradication",
     "Published": "1/6/2017",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "SVG",
     "URL": "http://www.seattletimes.com/seattle-news/marijuana/deas-marijuana-eradication-program-still-targets-washington/",
     "Developer": "Thomas Wilburn"
@@ -890,6 +1079,7 @@
     "Published": "1/6/2017",
     "Section": "Sports",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2017/hawks-lions-pick-em/",
     "Developer": "Thomas Wilburn"
   },
@@ -898,6 +1088,7 @@
     "Published": "12/29/2016",
     "Section": "Photo & Video",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/pictures-of-the-year/",
     "Developer": "Audrey Carlsen",
     "Share": "x"
@@ -906,6 +1097,8 @@
     "Title": "Seattle Times Geography Quiz 2016",
     "Published": "12/29/2016",
     "Section": "Travel",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/life/travel/geography-quiz-2016-test-your-knowledge-of-the-world/",
     "Developer": "Audrey Carlsen"
   },
@@ -914,6 +1107,7 @@
     "Published": "12/28/2016",
     "Section": "Sports",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/huskies-pick-em/",
     "Developer": "Thomas WIlburn"
   },
@@ -921,6 +1115,8 @@
     "Title": "What’s your Seattle business IQ? Take the 2016 biz quiz",
     "Published": "12/25/2016",
     "Section": "Business",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/business/whats-your-seattle-business-iq-take-the-2016-biz-quiz/",
     "Developer": "Audrey Carlsen"
   },
@@ -929,6 +1125,7 @@
     "Published": "12/22/2016",
     "Section": "Photo & Video",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/videos-of-the-year/",
     "Developer": "Thomas Wilburn"
   },
@@ -937,6 +1134,7 @@
     "Published": "12/20/2016",
     "Section": "Entertainment",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2016/great-reads/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -945,6 +1143,8 @@
     "Title": "Transit history quiz",
     "Published": "12/15/2016",
     "Section": "Transportation",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/seattle-news/transportation/more-than-100-years-ago-streetcars-ran-throughout-seattle-heres-how-they-met-their-demise/",
     "Developer": "Audrey Carlsen"
   },
@@ -961,6 +1161,7 @@
     "Title": "A guide to pho — Seattle’s favorite soup-and-noodle dish",
     "Published": "12/7/2016",
     "Section": "Food & Drink",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/life/food-drink/newcomers-guide-to-pho/",
     "Developer": "Audrey Carlsen"
@@ -978,6 +1179,7 @@
     "Title": "UW vs WSU fan map: Where do Huskies and Cougars live in Washington state?",
     "Published": "11/22/2016",
     "Section": "Sports",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/sports/uw-vs-wsu-fan-map-where-do-huskies-and-cougars-live-in-washington-state/",
     "Developer": "Thomas Wilburn"
@@ -986,6 +1188,7 @@
     "Title": "Top 10 new cheap eats in Seattle and beyond",
     "Published": "11/17/2016",
     "Section": "Food & Drink",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/pacific-nw-magazine/top-10-new-cheap-eats-in-seattle-and-beyond/",
     "Developer": "Thomas Wilburn"
@@ -1004,6 +1207,7 @@
     "Published": "11/8/2016",
     "Section": "Politics",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/election-results/#President",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -1012,6 +1216,7 @@
     "Title": "Take our Election Map Challenge",
     "Published": "11/3/2016",
     "Section": "Entertainment",
+    "Standalone": "",
     "Technology": "jQuery",
     "URL": "http://www.seattletimes.com/entertainment/election-map-challenge/",
     "Developer": "Audrey Carlsen"
@@ -1020,6 +1225,7 @@
     "Title": "Tribal members dig in for long fight at North Dakota pipeline site",
     "Published": "10/29/2016",
     "Section": "Environment",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/seattle-news/environment/tribal-members-dig-in-for-long-fight-at-north-dakota-pipeline-site/",
     "Developer": "Audrey Carlsen"
@@ -1028,6 +1234,7 @@
     "Title": "UW plans to expand upward in big growth spurt",
     "Published": "10/24/2016",
     "Section": "Education",
+    "Standalone": "",
     "Technology": "Savage Query",
     "URL": "http://www.seattletimes.com/seattle-news/education/uw-plans-to-expand-upward-in-big-growth-spurt/",
     "Developer": "Audrey Carlsen"
@@ -1056,6 +1263,8 @@
     "Title": "Behind the curtain of ‘gray money’: Donors, motives hard to track in Washington legislative races",
     "Published": "10/15/2016",
     "Section": "Politics",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/seattle-news/politics/pac-to-pac-to-pac-gray-money-obscures-donors-motivations-in-legislative-races/",
     "Developer": "Thomas Wilburn"
   },
@@ -1064,6 +1273,7 @@
     "Published": "10/7/2016",
     "Section": "Investigations",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/wales-timeline/",
     "Developer": "Thomas Wilburn"
   },
@@ -1071,6 +1281,7 @@
     "Title": "LLC-owned homes in King County",
     "Published": "9/26/2016",
     "Section": "FYI Guy",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/seattle-news/data/your-new-neighbor-in-the-house-next-door-might-just-be-an-llc/",
     "Developer": "Thomas Wilburn, Audrey Carlsen"
@@ -1089,6 +1300,8 @@
     "Title": "Play presidential-debate bingo",
     "Published": "9/23/2016",
     "Section": "Entertainment",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/entertainment/play-presidential-debate-bingo-download-cards-or-play-online/",
     "Developer": "Thomas Wilburn"
   },
@@ -1106,6 +1319,7 @@
     "Title": "RealNetworks left its mark as a launchpad for tech entrepreneurs",
     "Published": "9/3/2016",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "Gephi",
     "URL": "http://www.seattletimes.com/business/technology/realnetworks-left-its-mark-as-a-launchpad-for-tech-entrepreneurs/",
     "Developer": "Audrey Carlsen"
@@ -1114,6 +1328,7 @@
     "Title": "Red state, blue state: Watch 40 years of political change in Washington",
     "Published": "9/1/2016",
     "Section": "Politics",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/seattle-news/politics/red-state-blue-state-watch-40-years-of-political-change-in-washington/",
     "Developer": "Audrey Carlsen",
@@ -1132,6 +1347,7 @@
     "Title": "A teardown a day: Bulldozing the way for bigger homes in Seattle, suburbs",
     "Published": "8/26/2016",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "Map template",
     "URL": "http://www.seattletimes.com/business/real-estate/a-teardown-a-day-bulldozing-the-way-for-bigger-homes-in-seattle-suburbs/",
     "Developer": "Kelly Shea"
@@ -1149,6 +1365,7 @@
     "Title": "Have you wrecked your bike on streetcar tracks? Tell us what happened",
     "Published": "8/17/2016",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "Google Fusion Tables",
     "URL": "http://www.seattletimes.com/seattle-news/have-you-wrecked-your-bike-on-streetcar-tracks-tell-us-what-happened/",
     "Developer": "Evan Bush"
@@ -1157,6 +1374,7 @@
     "Title": "Did your school and district improve on state tests? Compare 2016 results to 2015",
     "Published": "8/17/2016",
     "Section": "Education",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/seattle-news/education/did-your-school-and-district-improve-on-state-tests-compare-2016-results-to-2015/",
     "Developer": "Audrey Carlsen",
@@ -1166,6 +1384,7 @@
     "Title": "Top 10 Summer Olympians in history with ties to Washington",
     "Published": "8/8/2016",
     "Section": "Sports",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/sports/olympics/top-10-summer-olympians-in-history-with-ties-to-washington/",
     "Developer": "Audrey Carlsen"
@@ -1183,6 +1402,7 @@
     "Title": "2016 state primary results widget",
     "Published": "8/2/2016",
     "Section": "Politics",
+    "Standalone": "",
     "Technology": "Tabletop",
     "URL": "http://projects.seattletimes.com/2016/politics/state-primary-widget/",
     "Developer": "Thomas Wilburn"
@@ -1191,6 +1411,8 @@
     "Title": "Washington locals in the Rio Olympics",
     "Published": "8/1/2016",
     "Section": "Sports",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/sports/olympics/seattle-washington-locals-in-the-rio-olympics-when-to-watch-track-their-progress/",
     "Developer": "Elif Koc"
   },
@@ -1217,6 +1439,7 @@
     "Published": "7/21/2016",
     "Section": "Environment",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/collateral-damage/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -1225,6 +1448,7 @@
     "Title": "How racially diverse is your school?",
     "Published": "7/18/2016",
     "Section": "FYI Guy",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/seattle-news/data/west-seattles-sanislo-elementary-most-racially-diverse-public-school-in-the-state/",
     "Developer": "Audrey Carlsen",
@@ -1234,6 +1458,7 @@
     "Title": "ST3 tax increase calculator",
     "Published": "7/13/2016",
     "Section": "Transportation",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/seattle-news/transportation/heres-what-youd-pay-to-build-bigger-sound-transit-network/",
     "Developer": "Thomas Wilburn",
@@ -1243,6 +1468,7 @@
     "Title": "State does little to protect schoolkids from earthquake, tsunami",
     "Published": "7/13/2016",
     "Section": "Investigations",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/seattle-news/times-watchdog/is-your-child-safe-washington-state-does-little-to-protect-older-schools-from-earthquakes-tsunami/",
     "Developer": "Thomas Wilburn, Elif Koc",
@@ -1252,6 +1478,7 @@
     "Title": "How to find out if a school in Washington state is safe from earthquakes, tsunamis",
     "Published": "7/13/2016",
     "Section": "Investigations",
+    "Standalone": "",
     "Technology": "Mithril",
     "URL": "http://www.seattletimes.com/seattle-news/times-watchdog/how-washington-parents-can-get-information-about-school-earthquake-tsunami-safety/",
     "Developer": "Thomas Wilburn",
@@ -1262,6 +1489,7 @@
     "Published": "7/10/2016",
     "Section": "Business",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/boeing-timeline/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -1271,6 +1499,7 @@
     "Published": "6/24/2016",
     "Section": "Sports",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/exploring-the-olympic-peninsula",
     "Developer": "Elif Koc"
   },
@@ -1279,6 +1508,7 @@
     "Published": "6/20/2016",
     "Section": "Photo & Video",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/under-our-skin/",
     "Developer": "Audrey Carlsen",
     "Share": "x"
@@ -1287,6 +1517,7 @@
     "Title": "In Seattle art world, women run the show",
     "Published": "6/18/2016",
     "Section": "Features",
+    "Standalone": "",
     "Technology": "Gephi, Savage",
     "URL": "http://www.seattletimes.com/entertainment/visual-arts/in-seattle-art-world-women-run-the-show/",
     "Developer": "Thomas Wilburn",
@@ -1296,6 +1527,7 @@
     "Title": "2016 CEO pay",
     "Published": "6/17/2016",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://projects.seattletimes.com/2016/business/ceo-pay-table/",
     "Developer": "Thomas Wilburn"
@@ -1304,6 +1536,7 @@
     "Title": "Bidding wars: Homebuyers fight to pay more for Seattle homes",
     "Published": "6/4/2016",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/business/bidding-wars-homebuyers-fight-to-pay-more-for-seattle-homes/",
     "Developer": "Thomas Wilburn"
@@ -1312,6 +1545,8 @@
     "Title": "Mariners wins tracker",
     "Published": "5/24/2016",
     "Section": "Sports",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/sports/mariners-wins-tracker/",
     "Developer": "Thomas Wilburn"
   },
@@ -1329,6 +1564,7 @@
     "Title": "Buildings that kill: The earthquake danger lawmakers have ignored for decades",
     "Published": "5/14/2016",
     "Section": "Investigations",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/seattle-news/times-watchdog/buildings-that-kill-the-earthquake-danger-lawmakers-have-ignored-for-decades/",
     "Developer": "Thomas Wilburn, Audrey Carlsen"
@@ -1338,6 +1574,7 @@
     "Published": "4/25/2016",
     "Section": "Transportation",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/bus-sketches/",
     "Developer": "Thomas Wilburn"
   },
@@ -1355,6 +1592,7 @@
     "Title": "Building a home bar",
     "Published": "4/7/2016",
     "Section": "Features",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/life/food-drink/building-a-home-bar-what-you-should-buy-to-become-a-cocktail-master-on-the-cheap/",
     "Developer": "Thomas Wilburn"
@@ -1363,6 +1601,7 @@
     "Title": "Confirmed: Doctors who take pharma money twice as likely to prescribe brand-name drugs",
     "Published": "3/17/2016",
     "Section": "Watchdog",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/seattle-news/times-watchdog/washington-docs-who-take-pharma-money-prescribe-more-brand-name-drugs-analysis-shows/",
     "Developer": "Thomas Wilburn"
@@ -1371,6 +1610,8 @@
     "Title": "Check out UW's new light-rail station - and how it could transform Seattle",
     "Published": "3/14/2016",
     "Section": "Transportation",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/seattle-news/transportation/check-out-uws-new-light-rail-station-and-how-it-could-transform-seattle/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -1380,6 +1621,7 @@
     "Published": "3/4/2016",
     "Section": "Education",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/education-funding/",
     "Developer": "Audrey Carlsen",
     "Share": "x"
@@ -1388,6 +1630,8 @@
     "Title": "Super Tuesday results",
     "Published": "3/1/2016",
     "Section": "Politics",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/politics/super-tuesday-widget/",
     "Developer": "Thomas Wilburn"
   },
@@ -1405,6 +1649,7 @@
     "Title": "Teens delay getting licenses — and their driving is worse",
     "Published": "2/16/2016",
     "Section": "Transportation",
+    "Standalone": "",
     "Technology": "Chartist",
     "URL": "http://www.seattletimes.com/seattle-news/transportation/young-drivers-wait-to-get-licenses-with-dangerous-consequences/",
     "Developer": "Audrey Carlsen",
@@ -1415,6 +1660,7 @@
     "Published": "2/14/2016",
     "Section": "Environment",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/elwha/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -1423,6 +1669,8 @@
     "Title": "Working for love: Online dating is starting to feel like a second job",
     "Published": "2/4/2016",
     "Section": "Pacific NW Magazine",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/pacific-nw-magazine/online-dating-is-starting-to-feel-like-a-second-job/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -1449,6 +1697,8 @@
     "Title": "Before-and-after photos of Amazon’s South Lake Union turf",
     "Published": "1/19/2016",
     "Section": "FYI Guy",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/seattle-news/data/amazons-south-lake-union-turf-do-you-recognize-this-place/",
     "Developer": "Audrey Carlsen",
     "Share": "x"
@@ -1458,6 +1708,7 @@
     "Published": "1/16/2016",
     "Section": "Education",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/mlk/",
     "Developer": "Audrey Carlsen, Thomas Wilburn",
     "Share": "x"
@@ -1466,6 +1717,7 @@
     "Title": "Seattle archdiocese posts list of 77 accused of child sex abuse",
     "Published": "1/15/2016",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/seattle-news/seattle-archdiocese-posts-list-of-clergy-accused-of-sexual-assault/",
     "Developer": "Audrey Carlsen",
@@ -1475,6 +1727,7 @@
     "Title": "How to get to Sea-Tac Airport: A roundup of options, and how much it’ll cost you",
     "Published": "1/8/2016",
     "Section": "Travel",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/life/travel/how-to-get-to-sea-tac-airport/",
     "Developer": "Audrey Carlsen",
@@ -1485,6 +1738,7 @@
     "Published": "1/6/2016",
     "Section": "Sports",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2016/griffey-comments/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -1493,6 +1747,8 @@
     "Title": "Seahawks Quote Generator: Create authentic-sounding sayings for your favorite Seattle players",
     "Published": "1/5/2016",
     "Section": "Sports",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/sports/seahawks/seahawks-quote-generator-create-authentic-sounding-sayings-for-your-favorite-seattle-players/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -1501,6 +1757,7 @@
     "Title": "How long is too long to wait for help when you call 911?",
     "Published": "1/2/2016",
     "Section": "FYI Guy",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/seattle-news/data/how-long-is-too-long-to-wait-after-calling-911/",
     "Developer": "Audrey Carlsen",
@@ -1510,6 +1767,7 @@
     "Title": "Biz Quiz 2015: Top business stories of the year",
     "Published": "12/26/2015",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "jQuery",
     "URL": "http://www.seattletimes.com/business/test-your-knowledge-of-companies-and-events-that-made-news-in-2015/",
     "Developer": "Audrey Carlsen",
@@ -1529,6 +1787,7 @@
     "Published": "12/24/2015",
     "Section": "Sports",
     "Standalone": "x",
+    "Technology": "",
     "URL": "https://projects.seattletimes.com/2015/custom-paper-hawk/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -1537,6 +1796,7 @@
     "Title": "Where in the world? The 2015 Seattle Times Geography Quiz",
     "Published": "12/23/2015",
     "Section": "Travel",
+    "Standalone": "",
     "Technology": "Quiz template",
     "URL": "http://www.seattletimes.com/life/travel/where-in-the-world-the-2015-seattle-times-geography-quiz/",
     "Developer": "Paige Collins"
@@ -1546,6 +1806,7 @@
     "Published": "12/23/2015",
     "Section": "Photo & Video",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2015/photos-of-the-year/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -1555,6 +1816,7 @@
     "Published": "12/23/2015",
     "Section": "Photo & Video",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2015/videos-of-the-year/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -1563,6 +1825,8 @@
     "Title": "Following the money: Ethics concerns muddy state’s clean-energy grant program",
     "Published": "12/15/2015",
     "Section": "Politics",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/seattle-news/politics/following-the-money-ethics-concerns-muddy-states-clean-energy-grant-program/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -1571,6 +1835,7 @@
     "Title": "Panoramic photos from top of Space Needle show Seattle’s growth since 1960s",
     "Published": "12/15/2015",
     "Section": "Photo & Video",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/photo-video/photography/panoramic-photos-from-top-of-space-needle-show-seattles-growth-since-1960s/",
     "Developer": "Audrey Carlsen",
@@ -1580,6 +1845,7 @@
     "Title": "How Microsoft moves profits offshore to cut its tax bill",
     "Published": "12/12/2015",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/business/microsoft/how-microsoft-parks-profits-offshore-to-pare-its-tax-bill/",
     "Developer": "Audrey Carlsen",
@@ -1589,6 +1855,7 @@
     "Title": "How you can better understand trauma’s effect on students — and why it matters",
     "Published": "12/9/2015",
     "Section": "Education",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/education-lab/how-you-can-better-understand-the-root-causes-of-student-discipline-challenges-and-why-that-matters/",
     "Developer": "Audrey Carlsen",
@@ -1598,6 +1865,7 @@
     "Title": "\"Star Wars\" timeline: stories from a long time ago",
     "Published": "12/6/2015",
     "Section": "Entertainment",
+    "Standalone": "",
     "Technology": "Timeline JS",
     "URL": "http://www.seattletimes.com/entertainment/movies/star-wars-timeline-stories-from-a-long-time-ago/",
     "Developer": "Paige Collins"
@@ -1606,6 +1874,7 @@
     "Title": "Seattle’s economic fault lines evident in fall election results",
     "Published": "12/2/2015",
     "Section": "Politics",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/seattle-news/politics/seattles-economic-lines-evident-in-fall-election-results/",
     "Developer": "Garland Potts"
@@ -1615,6 +1884,7 @@
     "Published": "11/30/2015",
     "Section": "Sports",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/star-times-fall-2015/",
     "Developer": "Thomas Wilburn, Nick Eaton",
     "Share": "x"
@@ -1623,6 +1893,7 @@
     "Title": "Teardown town: 1,500 small houses replaced by giants since 2012",
     "Published": "11/27/2015",
     "Section": "FYI Guy",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/2015/11/teardown-town-1500-small-houses-replaced-by-giants-since-2012/",
     "Developer": "Audrey Carlsen, Garland Potts",
@@ -1643,6 +1914,7 @@
     "Published": "11/12/2015",
     "Section": "Pacific NW Magazine",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2015/what-is-pacific-northwest-cuisine/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -1651,6 +1923,7 @@
     "Title": "A very Northwest holiday: Recipes for your Thanksgiving feast",
     "Published": "11/11/2015",
     "Section": "Food & Drink",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/life/food-drink/a-very-northwest-holiday-recipes-for-your-thanksgiving-feast/",
     "Developer": "Paige Collins"
@@ -1659,6 +1932,7 @@
     "Title": "From a grenade to a cow head, Seattle reporting a lot of illegally dumped trash with new app",
     "Published": "11/11/2015",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "ArcGIS",
     "URL": "http://www.seattletimes.com/seattle-news/with-new-app-tech-savy-seattle-reporting-a-lot-of-illegally-dumped-trash/",
     "Developer": "Audrey Carlsen, Garland Potts",
@@ -1668,6 +1942,7 @@
     "Title": "What we export: Few hunting trophies, millions of strange, slimy creatures",
     "Published": "11/8/2015",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "Chartist",
     "URL": "http://www.seattletimes.com/business/international-trade/few-trophy-animals-exported-through-port/",
     "Developer": "Garland Potts, Audrey Carlsen",
@@ -1677,6 +1952,7 @@
     "Title": "Are you living alone? You're not alone",
     "Published": "11/6/2015",
     "Section": "FYI Guy",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/seattle-news/data/fyi-guy-are-you-living-alone-youre-not-alone/",
     "Developer": "Audrey Carlsen",
@@ -1687,6 +1963,7 @@
     "Published": "11/3/2015",
     "Section": "Politics",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://projects.seattletimes.com/2015/election-results/",
     "Developer": "Thomas Wilburn",
     "Share": "x"
@@ -1695,6 +1972,7 @@
     "Title": "Mayor, county exec declare ‘state of emergency’ over homelessness",
     "Published": "11/2/2015",
     "Section": "Politics",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/seattle-news/politics/mayor-county-exec-declare-state-of-emergency-over-homelessness/",
     "Developer": "Audrey Carlsen",
@@ -1704,6 +1982,7 @@
     "Title": "Seattle-area traffic apps hungry for your data to make commute easier",
     "Published": "10/26/2015",
     "Section": "Transportation",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/seattle-news/transportation/seattle-area-traffic-apps-hungry-for-your-data-to-make-commute-easier/",
     "Developer": "Thomas Wilburn",
@@ -1713,6 +1992,7 @@
     "Title": "Thousands of exotic animals are shipped through Seattle each year",
     "Published": "10/24/2015",
     "Section": "Environment",
+    "Standalone": "",
     "Technology": "PostgreSQL",
     "URL": "http://www.seattletimes.com/seattle-news/environment/thousands-of-exotic-animals-are-shipped-through-seattle-each-year/",
     "Developer": "Audrey Carlsen, Thomas Wilburn",
@@ -1732,6 +2012,7 @@
     "Title": "Seattle property taxes: Are we gouging ourselves?",
     "Published": "10/12/2015",
     "Section": "FYI Guy",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/seattle-news/data/seattle-property-taxes-are-we-gouging-ourselves/",
     "Developer": "Audrey Carlsen",
@@ -1750,6 +2031,7 @@
     "Title": "A spike in King County foreign-born populations",
     "Published": "10/5/2015",
     "Section": "FYI Guy",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/seattle-news/data/a-spike-in-king-county-foreign-born-populations/",
     "Developer": "Audrey Carlsen",
@@ -1759,6 +2041,7 @@
     "Title": "Amazon takes cowboy tactics to ‘wild, wild East’ of India",
     "Published": "10/3/2015",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/business/amazon/amazon-takes-cowboy-tactics-to-wild-wild-east-of-india/",
     "Developer": "Audrey Carlsen",
@@ -1768,6 +2051,7 @@
     "Title": "Man swims 55 miles of Duwamish River, finds it’s ‘still alive’",
     "Published": "10/1/2015",
     "Section": "Environment",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/seattle-news/man-swims-55-miles-of-duwamish-river-finds-its-still-alive/",
     "Developer": "Thomas Wilburn, Ben Woodard"
@@ -1786,6 +2070,7 @@
     "Title": "Before Morse code, there was Morse’s ‘Gallery of the Louvre’",
     "Published": "9/17/2015",
     "Section": "Entertainment",
+    "Standalone": "",
     "Technology": "Leaflet, custom tiles",
     "URL": "http://www.seattletimes.com/entertainment/visual-arts/before-morse-code-there-was-morses-gallery-of-the-louvre-explore-it-here-see-it-at-sam/",
     "Developer": "Thomas Wilburn",
@@ -1844,6 +2129,7 @@
     "Title": "Low pay and long, pricey commute often go hand in hand",
     "Published": "8/29/2015",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/business/economy/low-pay-long-pricey-commute-often-go-hand-in-hand/",
     "Developer": "Audrey Carlsen",
@@ -1873,6 +2159,7 @@
     "Title": "How the wildfires in North Central Washington have grown over time",
     "Published": "8/26/2015",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "Leaflet, jQuery",
     "URL": "http://www.seattletimes.com/seattle-news/northwest/animated-map-how-the-wildfires-in-north-central-washington-have-grown-over-time/",
     "Developer": "Audrey Carlsen, Garland Potts",
@@ -1882,6 +2169,7 @@
     "Title": "Officials pleased after half of students pass state’s new, tougher tests",
     "Published": "8/17/2015",
     "Section": "Education",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/seattle-news/education/about-half-of-students-pass-states-new-tougher-tests/",
     "Developer": "Audrey Carlsen, Emma O'Neill",
@@ -1891,6 +2179,7 @@
     "Title": "Seattle’s old brick buildings could see huge damage in big quake",
     "Published": "8/10/2015",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/business/real-estate/citys-old-brick-buildings-could-see-huge-damage-in-big-quake/",
     "Developer": "Audrey Carlsen"
@@ -1909,6 +2198,7 @@
     "Title": "Oh rats! Seattle is one of the rattiest places in U.S.",
     "Published": "8/3/2015",
     "Section": "FYI Guy",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/seattle-news/data/oh-rats-seattle-ranks-no-7-for-rat-sightings/",
     "Developer": "Audrey Carlsen",
@@ -1918,6 +2208,7 @@
     "Title": "Surviving Seattle’s sidewalks: Pedestrian rage rises as the population grows",
     "Published": "7/30/2015",
     "Section": "Transportation",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/pacific-nw-magazine/surviving-seattles-sidewalks-pedestrian-rage-rises-as-the-population-grows/",
     "Developer": "Audrey Carlsen"
@@ -1926,6 +2217,7 @@
     "Title": "Seattle baby names: We’re trying harder to stand out",
     "Published": "7/28/2015",
     "Section": "FYI Guy",
+    "Standalone": "",
     "Technology": "D3",
     "URL": "http://www.seattletimes.com/seattle-news/data/naming-babies-were-trying-harder-to-stand-out/",
     "Developer": "Audrey Carlsen",
@@ -1935,6 +2227,7 @@
     "Title": "Seattle’s richest, whitest areas dominate campaign giving, say reform backers",
     "Published": "7/21/2015",
     "Section": "Politics",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/seattle-news/politics/seattles-richest-whitest-sway-campaign-giving-say-reform-backers",
     "Developer": "Thomas Wilburn, Garland Potts",
@@ -1954,6 +2247,7 @@
     "Title": "Pot's portrayal: From 'hypnotic hilarity' to legal drug",
     "Published": "7/7/2015",
     "Section": "Politics",
+    "Standalone": "",
     "Technology": "Timeline JS",
     "URL": "http://www.seattletimes.com/seattle-news/marijuana/115-years-of-marijuana-coverage/",
     "Developer": "Paige Cornwell"
@@ -1972,6 +2266,7 @@
     "Title": "The recovery gap: Seattle area's economic expansion is favoring the wealthy",
     "Published": "6/27/2015",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/business/economy/the-recovery-gap-economic-expansion-is-favoring-the-wealthy/",
     "Developer": "Audrey Carlsen, Emma O'Neill",
@@ -1981,6 +2276,7 @@
     "Title": "Race dramatically skews discipline, even in elementary school",
     "Published": "6/23/2015",
     "Section": "Education",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/education-lab/race-dramatically-skews-discipline-even-in-elementary-school/",
     "Developer": "Thomas Wilburn",
@@ -1990,6 +2286,7 @@
     "Title": "Stock awards on top of pay, bonuses boost CEO compensation",
     "Published": "6/20/2015",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/business/stock-awards-on-top-of-pay-bonuses-boost-ceo-compensation/",
     "Developer": "Emma O'Neill",
@@ -2019,6 +2316,7 @@
     "Title": "$15 an hour: the difference it would make",
     "Published": "5/31/2015",
     "Section": "FYI Guy",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/business/real-estate/15-wage-would-make-big-difference-to-renters-across-us/",
     "Developer": "Audrey Carlsen",
@@ -2028,6 +2326,7 @@
     "Title": "Looser loan rules a boon for Buffett company",
     "Published": "5/17/2015",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/business/real-estate/buffetts-mobile-home-business-has-most-to-gain-from-deregulation-plan/",
     "Developer": "Thomas Wilburn",
@@ -2047,6 +2346,7 @@
     "Title": "Wildly varying teacher salaries part of state budget debate",
     "Published": "5/9/2015",
     "Section": "Education",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/seattle-news/education/wildly-varying-teacher-salaries-part-of-state-budget-debate/",
     "Developer": "Audrey Carlsen",
@@ -2056,6 +2356,7 @@
     "Title": "Live updates from May Day in Seattle",
     "Published": "5/1/2015",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "Custom elements, Node server",
     "URL": "http://www.seattletimes.com/seattle-news/live-updates-from-may-day-seattle/",
     "Developer": "Thomas Wilburn",
@@ -2074,6 +2375,7 @@
     "Title": "After the fall of Saigon: When Washington did the right thing for refugees",
     "Published": "4/24/2015",
     "Section": "Editorial",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/2015/04/when-washington-did-the-right-thing-for-refugees/",
     "Developer": "Thomas Wilburn, Garland Potts",
@@ -2092,6 +2394,7 @@
     "Title": "Boeing retools Renton plant with automation for 737’s big ramp-up",
     "Published": "4/18/2015",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/business/boeing-aerospace/boeing-retools-renton-plant-for-737s-big-ramp-up/",
     "Developer": "Thomas Wilburn",
@@ -2111,6 +2414,7 @@
     "Title": "The mobile-home trap: How a Warren Buffett empire preys on the poor",
     "Published": "4/2/2015",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/business/real-estate/the-mobile-home-trap-how-a-warren-buffett-empire-preys-on-the-poor/",
     "Developer": "Thomas Wilburn",
@@ -2120,6 +2424,7 @@
     "Title": "Low wages for aerospace workers despite tax breaks for employers",
     "Published": "3/28/2015",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/business/boeing-aerospace/low-wages-for-aerospace-workers-despite-tax-breaks-for-employers/",
     "Developer": "Thomas Wilburn",
@@ -2139,6 +2444,7 @@
     "Title": "Oso landslide donations: Where the millions went",
     "Published": "3/18/2015",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "D3",
     "URL": "http://www.seattletimes.com/seattle-news/millions-in-donations-help-ease-burden-in-oso-slide-communities/",
     "Developer": "Audrey Carlsen",
@@ -2157,6 +2463,7 @@
     "Title": "Rich Chinese lead race for ticket to green card",
     "Published": "3/7/2015",
     "Section": "Business",
+    "Standalone": "",
     "Technology": "-",
     "URL": "http://www.seattletimes.com/business/real-estate/ticket-for-a-green-card-isnt-too-pricey-for-many-in-china/",
     "Developer": "Thomas Wilburn",
@@ -2166,6 +2473,7 @@
     "Title": "For Sounders and other MLS teams, building a global scouting network is a long process",
     "Published": "3/5/2015",
     "Section": "Sports",
+    "Standalone": "",
     "Technology": "Leaflet, jQuery",
     "URL": "http://www.seattletimes.com/sports/sounders/for-sounders-and-other-mls-teams-building-a-global-scouting-network-is-a-long-process/",
     "Developer": "Audrey Carlsen, Thomas Wilburn",
@@ -2185,6 +2493,7 @@
     "Title": "Mapping the dogs of Seattle",
     "Published": "2/27/2015",
     "Section": "FYI Guy",
+    "Standalone": "",
     "Technology": "Leaflet",
     "URL": "http://www.seattletimes.com/life/pets/mapping-the-dogs-of-seattle/",
     "Developer": "Garland Potts",
@@ -2204,6 +2513,7 @@
     "Title": "Vaccine exemption rates for every Washington school",
     "Published": "2/4/2015",
     "Section": "FYI Guy",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://blogs.seattletimes.com/fyi-guy/2015/02/04/explore-this-vaccine-exemption-rates-for-every-washington-school/",
     "Developer": "Audrey Carlsen",
@@ -2319,6 +2629,7 @@
     "Title": "Holiday recipes: Seattle chefs put a twist on the classics",
     "Published": "11/12/2014",
     "Section": "Food & Drink",
+    "Standalone": "",
     "Technology": "Angular",
     "URL": "http://www.seattletimes.com/special-reports/holiday-recipes-seattle-chefs-put-a-twist-on-the-classics/",
     "Developer": "Paige Collins"
@@ -2347,6 +2658,8 @@
     "Title": "4-year-olds in preschool, 2003-2013",
     "Published": "9/20/2014",
     "Section": "Education",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://old.seattletimes.com/html/localpages/2024591614_preschool-enrollment-changes.html",
     "Developer": "Michael Mott",
     "Share": "x"
@@ -2355,6 +2668,7 @@
     "Title": "Seattle pedestrian and bicycle crashes",
     "Published": "9/8/2014",
     "Section": "Transportation",
+    "Standalone": "",
     "Technology": "Tableau",
     "URL": "http://old.seattletimes.com/flatpages/local/pedestrianandbicyclecollisionsinseattle.html",
     "Developer": "Justin Mayo",
@@ -2384,6 +2698,7 @@
     "Title": "Before and after the Highway 530 mudslide",
     "Published": "6/18/2014",
     "Section": "Local",
+    "Standalone": "",
     "Technology": "Slider tool",
     "URL": "http://old.seattletimes.com/flatpages/local/interactivebeforeandafterthehighway530mudslide.html",
     "Developer": "Paige Collins"
@@ -2392,6 +2707,8 @@
     "Title": "What big-time college coaches get paid",
     "Published": "11/24/2013",
     "Section": "Sports",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/seattle-news/interactive-what-big-time-college-coaches-get-paid/"
   },
   {
@@ -2399,6 +2716,7 @@
     "Published": "10/30/2013",
     "Section": "Politics",
     "Standalone": "x",
+    "Technology": "",
     "URL": "http://apps.seattletimes.com/elections/2013/general/seattle-mayoral-race/",
     "Developer": "Lauren Rabaino, Dean Kramer"
   },
@@ -2415,6 +2733,8 @@
     "Title": "\"Structurally deficient\" bridges in Washington state",
     "Published": "5/28/2013",
     "Section": "Local",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://old.seattletimes.com/flatpages/local/structurally-deficient-bridges.html",
     "Developer": "Lauren Rabaino, Cheryl Phillips, Dean Kramer"
   },
@@ -2422,6 +2742,8 @@
     "Title": "Readers' picks: Best Washington state parks",
     "Published": "5/18/2013",
     "Section": "Outdoors",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://www.seattletimes.com/outdoors/readers-picks-best-washington-state-parks/",
     "Developer": "Dean Kramer, Lauren Rabaino"
   },
@@ -2438,6 +2760,8 @@
     "Title": "How would you balance the state budget and fund education?",
     "Published": "3/28/2013",
     "Section": "Politics",
+    "Standalone": "",
+    "Technology": "",
     "URL": "http://old.seattletimes.com/flatpages/local/balance-washington-state-budget-game.html",
     "Developer": "Lauren Rabaino, Dean Kramer"
   }
