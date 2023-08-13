@@ -4,7 +4,7 @@
     <%= t.include("partials/_head.html", grunt.data.json) %>
     <% if (!json.project.embedded) { %>
       <%= t.include("partials/_dataLayer.html") %>
-      <script src="https://seattle-times.zeustechnology.com/main.js" async></script>
+      
       <script src="https://www.seattletimes.com/wp-content/plugins/st-advertising/dist/st-projects-bundle.js" async></script>
     <% } %>
     <% if (json.project.production && !json.project.embedded) { %>
@@ -25,7 +25,6 @@
               <i class="fa fa-twitter"></i></a>
             <a class="icon" href="https://github.com/seattletimes" target="_blank" rel="noopener noreferrer">
               <i class="fa fa-github"></i></a>
-            <p> For more discussion on our team and work, visit our <a href="https://dev.seattletimes.com" target="_blank" rel="noopener noreferrer">Dev Blog.</a></p>
             <p> For open positions, including paid internships, visit our <a href="https://company.seattletimes.com/careers/" target="_blank" rel="noopener noreferrer">career site.</a></p>
           </div>
         </div>
@@ -38,12 +37,16 @@
           <ul class="article-list">
             <% data.forEach(function(row){ %>
               <li>
+              <hr>
                 <div class="meta">
-                  <%= row.Section %> |
-                  <%= row.Published %> |
-                  <%= row.Developer %>
+                  <strong><%= row.Section %></strong> |
+                  <%= row.Published %> <br>
+                  Developed by <%= row.Developer %>
+                  <p></p>
                 </div>
-                <a href="<%= row.URL %>" target="_blank" rel="noopener noreferrer"><h1><%= row.Title %></h1></a>
+                <a href="<%= row.URL %>" target="_blank" rel="noopener noreferrer">
+                <img src="<%= row.Standalone === 'x' ? row.Image : '' %>"/>
+                <h1><%= row.Title %></h1></a>
               </li>
             <% }); %>
           </ul>

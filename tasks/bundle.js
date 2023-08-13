@@ -19,9 +19,15 @@ module.exports = function(grunt) {
       "./src/js/main.js": "build/app.js"
     };
 
-    async.forEachOf(seeds, function(dest, src, c) {
+async.forEachOf(seeds, function(dest, src, c) {
       var b = browserify({ debug: mode == "dev" });
-      b.transform(babel, { global: true, presets: ["es2015"]});
+      b.plugin(require("browser-pack-flat/plugin"));
+      b.transform("babelify", { global: true, presets: [
+        ["@babel/preset-env", {
+          targets: { browsers: ["ie >= 10", "safari >= 12"]},
+          loose: true
+        }]
+      ]});
 
       //make sure build/ exists
       grunt.file.mkdir("build");

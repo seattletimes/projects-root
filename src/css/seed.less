@@ -71,12 +71,26 @@ html, body {
   }
 
   .article-list {
+    display: flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    gap: 2%;
     margin: 0;
     padding: 0;
     list-style-type: none;
 
     li {
+      width:100%;
+      max-width:48%;
       margin-bottom: 24px;
+
+      @media @mobile {
+      max-width:100%;
+      }
+      @media @tablet {
+      max-width:100%;
+      }
     }
   }
 
